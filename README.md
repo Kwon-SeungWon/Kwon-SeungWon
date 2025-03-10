@@ -1,14 +1,13 @@
 ## Hi there 👋
 
 
-[<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Kwon-SeungWon&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/Kwon-SeungWon?pet-id=686896032221323249"
-    width="600"
-    height="300"
-  />
-</a>](https://www.gitanimals.org/en_US/mypage?type=farm-type)
-  
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Kwon-SeungWon&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Kwon-SeungWon"
+  width="600"
+  height="300"
+/>
+</a>  
   
 <!--
 **Kwon-SeungWon/Kwon-SeungWon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
