@@ -4,8 +4,8 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Kwon-SeungWon&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Kwon-SeungWon"
-  width="800"
-  height="350"
+  width="600"
+  height="300"
 />
 </a>
 <!--
