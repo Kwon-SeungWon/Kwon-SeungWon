@@ -47,33 +47,33 @@ I enjoy building intelligent robots that can understand and interact with their 
 
 ---
 
-<!-- ## 🎯 Current Projects -->
+## 🎯 Current Projects 
 
-<!-- ### 🤖 HAMR (Heavy Autonomous Mobile Robot) 3D Localization
+### 🤖 HAMR (Heavy Autonomous Mobile Robot) 3D Localization
 - ROS2 Jazzy 환경, 3D Lidar, IMU, Encoder, GNSS 센서 기반 고중량 모바일 로봇
 - Sensor Fusion & Simultaneous Localization 개발
-- [프로젝트 링크 추가 예정] -->
+- [프로젝트 링크 추가 예정] 
 
-<!-- ### 🗺️ Samsung Electronics Industry Academic Projects 
+### 🗺️ Samsung Electronics Industry Academic Projects 
 - ROS2 Humble 환경, Isaac sim 가정 환경 기반 청소 로봇
 - Semantic Map Generation, Semantic Autonomous Navigation (with Semantic Task Planner) 개발
 - [프로젝트 링크 추가 예정]
 
---- -->
+--- 
 
-<!-- ## 🤝 Collaboration
+## 🤝 Collaboration
 
 현재 다음과 같은 분야에서 협업을 찾고 있어요:
 - 🤖 자율주행 모바일 로봇 프로젝트
 - 🗺️ SLAM 및 Navigation
 - 🔧 오픈소스 로봇 프로젝트
 
---- -->
+--- 
 
-<!-- ## 📫 Contact
+## 📫 Contact
 
 [연락처 정보 추가 예정]
 - 📧 Email: [ksw981215@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/%EC%8A%B9%EC%9B%90-%EA%B6%8C-695b4726a/]
 
---- -->
+---
